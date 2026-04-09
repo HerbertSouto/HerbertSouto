@@ -1,7 +1,7 @@
 # Herbert Souto
 
 Desenvolvedor Python com foco em engenharia de dados, automacao e construcao de produtos de dados e IA.  
-Atuo conectando APIs, pipelines e inteligencia para gerar insights e apoiar decisoes de negocio.
+Atuo conectando APIs, pipelines e inteligencia para gerar insights e apoiar decisões de negócio.
 
 ## Stack principal
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)
